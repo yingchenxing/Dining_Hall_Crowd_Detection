@@ -29,6 +29,7 @@ To use the application, simply open it and you will see a list of the available 
 To view more information about a specific dining hall, simply tap on its name. This will open a detailed view with additional information such as the capacity of the dining hall and the percentage of occupancy.
 
 We hope this application helps you have a better dining experience on campus. If you have any feedback or suggestions, please don't hesitate to contact us.
+
 <img width="300" alt="" src="https://user-images.githubusercontent.com/71536778/205512931-c9daf3a1-a9e3-4389-8094-cf9f4e75b52f.gif">
 
 ### Web application
